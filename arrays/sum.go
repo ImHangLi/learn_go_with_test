@@ -8,6 +8,7 @@ We have covered
 - len() to get the length of an array or slice
 - Test coverage tool -cover
 - reflect.DeepEqual and why it's useful but can reduce the type-safety of your code
+- Changing the slice will CHANGE the original slice
 */
 
 package main
